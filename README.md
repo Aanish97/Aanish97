@@ -7,7 +7,7 @@ I am a Fullstack Developer from Lahore, Pakistan.<br/>
 🎉 Co-Head Creative Design Team Softec-19 -- _August 2018 - March 2019_<br/>
 
 #
-**Linkedin**.   https://www.linkedin.com/in/aanish-amir-waseem/<br/>
+**Linkedin**.   https://www.linkedin.com/in/aanish-amir/<br/>
 **StackOverflow**   https://stackoverflow.com/users/11037093/aanish-amir-waseem<br/>
 **Dribbble**.   https://dribbble.com/Aanish<br/>
 **Hackerrank**.   https://www.hackerrank.com/aanishamir<br/>
