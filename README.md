@@ -12,5 +12,5 @@ I am a Fullstack Developer from Lahore, Pakistan.<br/>
 **Dribbble**.   https://dribbble.com/Aanish<br/>
 **Hackerrank**.   https://www.hackerrank.com/aanishamir<br/>
 #
-Ping me any time at Linkedin or email me at **aanishamir@gmail.com😊
+Ping me any time at Linkedin or email me at aanishamir@gmail.com😊
 
