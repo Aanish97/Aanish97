@@ -6,9 +6,9 @@ I am a Fullstack Developer from Lahore, Pakistan.<br/>
 📕 Bachelors in Computer Science from FAST-NUCES, Lahore  -- _August 2016 - July 2020_<br/>
 🎉 Co-Head Creative Design Team Softec-19 -- _August 2018 - March 2019_<br/>
 
-📱 Resource on on slotswise.com
-🖥 Developed on omega.redx.online
-💻 Worked on app.alchemus.co
+📱 Resource on on slotswise.com<br/>
+🖥 Developed on omega.redx.online<br/>
+💻 Worked on app.alchemus.co<br/>
 
 #
 **Linkedin**.   https://www.linkedin.com/in/aanish-amir/<br/>
