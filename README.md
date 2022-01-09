@@ -7,7 +7,7 @@ I am a Fullstack Developer from Lahore, Pakistan.<br/>
 🎉 Co-Head Creative Design Team Softec-19 -- _August 2018 - March 2019_<br/>
 
 📱 Resource on on slotswise.com<br/>
-🖥 Developed on omega.redx.online<br/>
+🖥 Developed omega.redx.online<br/>
 💻 Worked on app.alchemus.co<br/>
 
 #
