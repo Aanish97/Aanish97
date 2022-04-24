@@ -14,7 +14,7 @@ I am a Fullstack Developer from Lahore, Pakistan.<br/>
 
 #
 **Linkedin**.   https://www.linkedin.com/in/aanish-amir/<br/>
-**StackOverflow**   https://stackoverflow.com/users/11037093/aanish-amir-waseem<br/>
+**StackOverflow**   https://stackoverflow.com/users/11037093/aanish-amir<br/>
 **Dribbble**.   https://dribbble.com/Aanish<br/>
 **Hackerrank**.   https://www.hackerrank.com/aanishamir<br/>
 #
