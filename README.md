@@ -8,9 +8,9 @@ I am a Fullstack Developer from Lahore, Pakistan.<br/>
 
 📱 Resource on on slotswise.com<br/>
 💻 Collaborator on ezhealth.live<br/>
-🖥 Developed omega.redx.online<br/>
+🖥 Created omega.redx.online<br/>
 💻 Worked on app.alchemus.co<br/>
-💻 Developed devdevout.com<br/>
+💻 Upgraded devdevout.com<br/>
 
 #
 **Linkedin**.   https://www.linkedin.com/in/aanish-amir/<br/>
