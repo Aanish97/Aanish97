@@ -1,16 +1,17 @@
 ### Hi 👋🏽,
 
-I am a Fullstack Developer from Lahore, Pakistan.<br/>
+I am a Fullstack Developer (Django + React) from Lahore, Pakistan.<br/>
 #
 💻 Software Engineer at Esketchers -- _June 2020 - Present_<br/>
 📕 Bachelors in Computer Science from FAST-NUCES, Lahore  -- _August 2016 - July 2020_<br/>
 🎉 Co-Head Creative Design Team Softec-19 -- _August 2018 - March 2019_<br/>
 
-📱 Resource on on slotswise.com<br/>
-💻 Collaborator on ezhealth.live<br/>
-🖥 Created omega.redx.online<br/>
-💻 Worked on app.alchemus.co<br/>
-💻 Upgraded devdevout.com<br/>
+**Projects Worked on**<br/>
+💻 Working on https://www.leonardo247.com/ as dedicated resource<br/>
+💻 Working on https://www.app.alchemus.co<br/>
+🖥 Worked on https://www.slotswise.com as dedicated resource<br/>
+🖥 Worked on https://www.omega.redx.online<br/>
+💻 Worked on https://www.ophycare.com<br/>
 
 #
 **Linkedin**.   https://www.linkedin.com/in/aanish-amir/<br/>
