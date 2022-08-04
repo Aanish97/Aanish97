@@ -1,6 +1,6 @@
 ### Hi 👋🏽,
 
-I am a Fullstack Developer (Django + React) from Lahore, Pakistan.<br/>
+I am a Senior Software Engineer.<br/>
 #
 💻 Software Engineer at Esketchers -- _June 2020 - Present_<br/>
 📕 Bachelors in Computer Science from FAST-NUCES, Lahore  -- _August 2016 - July 2020_<br/>
