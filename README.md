@@ -20,5 +20,3 @@ I am a Fullstack Developer (Django + React) from Lahore, Pakistan.<br/>
 **Hackerrank**.   https://www.hackerrank.com/aanishamir<br/>
 #
 Ping me any time at Linkedin or email me at aanishamir@gmail.com😊
-
-https://aanish97.github.io
