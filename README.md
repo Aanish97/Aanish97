@@ -9,9 +9,9 @@ I am a Senior Software Engineer.<br/>
 💻 Software Engineer Intern at Bramerz -- _June 2018 - September 2018_<br/>
 
 **Projects Worked on**<br/>
-💻 Working on https://www.leonardo247.com/
+💻 Working on https://www.leonardo247.com<br/>
 💻 Working on https://www.app.alchemus.co<br/>
-🖥 Worked on https://www.slotswise.com as
+🖥 Worked on https://www.slotswise.com<br/>
 🖥 Worked on https://www.omega.redx.online<br/>
 💻 Worked on https://www.ophycare.com<br/>
 
