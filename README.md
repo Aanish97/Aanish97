@@ -9,7 +9,7 @@ I am a Senior Software Engineer.<br/>
 💻 Software Engineer Intern at Bramerz -- _June 2018 - September 2018_<br/>
 
 **Projects Worked on**<br/>
-💻 Working on https://www.leonardo247.com<br/>
+💻 Worked on https://www.leonardo247.com<br/>
 💻 Working on https://www.app.alchemus.co<br/>
 🖥 Worked on https://www.slotswise.com<br/>
 🖥 Worked on https://www.omega.redx.online<br/>
@@ -19,7 +19,8 @@ I am a Senior Software Engineer.<br/>
 **Linkedin**.   https://www.linkedin.com/in/aanish-amir/<br/>
 **StackOverflow**   https://stackoverflow.com/users/11037093/aanish-amir<br/>
 **Dribbble**.   https://dribbble.com/Aanish<br/>
+**LeetCode**.   hhttps://leetcode.com/Aanish97<br/>
 **Hackerrank**.   https://www.hackerrank.com/aanishamir<br/>
-**Fiverr**.   https://www.fiverr.com/concept_studios<br/>
+**Fiverr**.   https://www.fiverr.com/concept_studios<br/>>
 #
 Ping me any time at Linkedin or email me at aanishamir@gmail.com😊
