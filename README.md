@@ -1,6 +1,6 @@
 ### Hi 👋🏽,
 
-I am a Senior Software Engineer.<br/>
+I am a Senior Software Engineer. Expert in Djangp/Python/Flask/FastAPI/Reactjs/Docker<br/>
 #
 💻 Senior Software Engineer at Leonardo247 -- July 2022 - Present <br/>
 💻 Software Engineer at Esketchers -- _June 2020 - July 2022_<br/>
