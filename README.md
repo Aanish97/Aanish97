@@ -9,11 +9,11 @@ I am a Senior Software Engineer. Expert in Python/Django/Flask/FastAPI/Reactjs/D
 💻 Software Engineer Intern at Bramerz -- _June 2018 - September 2018_<br/>
 
 **Projects Worked on**<br/>
-💻 Worked on https://www.leonardo247.com<br/>
-💻 Working on https://www.app.alchemus.co<br/>
-🖥 Worked on https://www.slotswise.com<br/>
-🖥 Worked on https://www.omega.redx.online<br/>
-💻 Worked on https://www.ophycare.com<br/>
+💻 https://www.leonardo247.com<br/>
+💻 https://www.app.alchemus.co<br/>
+🖥 https://www.slotswise.com<br/>
+🖥 https://www.omega.redx.online<br/>
+💻 https://www.ophycare.com<br/>
 
 #
 **Linkedin**.   https://www.linkedin.com/in/aanish-amir/<br/>
