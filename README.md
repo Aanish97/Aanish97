@@ -19,7 +19,7 @@ I am a Senior Software Engineer. Expert in Python/Django/Flask/FastAPI/Reactjs/D
 **Linkedin**.   https://www.linkedin.com/in/aanish-amir/<br/>
 **StackOverflow**   https://stackoverflow.com/users/11037093/aanish-amir<br/>
 **Dribbble**.   https://dribbble.com/Aanish<br/>
-**LeetCode**.   hhttps://leetcode.com/Aanish97<br/>
+**LeetCode**.   https://leetcode.com/Aanish97<br/>
 **Hackerrank**.   https://www.hackerrank.com/aanishamir<br/>
 **Fiverr**.   https://www.fiverr.com/concept_studios<br/>
 #
