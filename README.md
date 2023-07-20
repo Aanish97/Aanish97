@@ -1,6 +1,6 @@
 ### Hi 👋🏽,
 
-I am a Senior Software Engineer. Expert in Python/Django/Flask/FastAPI/Reactjs/Docker<br/>
+I am a Technical Lead. Expert in Python/Django/Flask/FastAPI/Reactjs/Docker<br/>
 #
 💻 Technical Lead @ Leonardo247 -- _June 2023 - Present_<br/>
 💻 Senior Software Engineer at Leonardo247 -- _July 2022 - June 2023_ <br/>
