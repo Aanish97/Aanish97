@@ -18,8 +18,7 @@ I am a Technical Lead. Expert in Python/Django/Flask/FastAPI/Reactjs/Docker<br/>
 💻 https://www.ophycare.com<br/>
 
 #
-**Linkedin**.   https://www.linkedin.com/in/aanish-amir/<br/>
-**StackOverflow**   https://stackoverflow.com/users/11037093/aanish-amir<br/>
+#**StackOverflow**   https://stackoverflow.com/users/11037093/aanish-amir<br/>
 **Dribbble**.   https://dribbble.com/Aanish<br/>
 **LeetCode**.   https://leetcode.com/Aanish97<br/>
 **Hackerrank**.   https://www.hackerrank.com/aanishamir<br/>
