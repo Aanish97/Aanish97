@@ -18,7 +18,6 @@ I am a Technical Lead. Expert in Python/Django/Flask/FastAPI/Reactjs/Docker<br/>
 💻 [app.alchemus](https://www.app.alchemus.co)<br/>
 🖥 [slotswise.com](https://www.slotswise.com)<br/>
 💻 [surmount.ai](https://www.surmount.ai)<br/>
-🖥 [omega.redx.online](https://www.omega.redx.online)<br/>
 💻 [ophycare.com](https://www.ophycare.com)<br/>
 
 #
