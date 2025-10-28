@@ -15,7 +15,6 @@ I am a Technical Lead. Expert in Python/Django/Flask/FastAPI/Reactjs/Docker<br/>
 #
 **Projects Worked on**<br/>
 💻 [leonardo247](https://www.leonardo247.com)<br/>
-💻 [app.alchemus](https://www.app.alchemus.co)<br/>
 🖥 [slotswise.com](https://www.slotswise.com)<br/>
 💻 [surmount.ai](https://www.surmount.ai)<br/>
 💻 [ophycare.com](https://www.ophycare.com)<br/>
@@ -25,6 +24,6 @@ I am a Technical Lead. Expert in Python/Django/Flask/FastAPI/Reactjs/Docker<br/>
 **[Dribbble](https://dribbble.com/Aanish)**  <br/>
 **[LeetCode](https://leetcode.com/Aanish97)**   <br/>
 **[Hackerrank](https://www.hackerrank.com/aanishamir)**   <br/>
-**[Fiverr](https://www.fiverr.com/concept_studios)**   <br/>
+
 #
 Ping me any time at Linkedin or email me at aanishamir@gmail.com😊
